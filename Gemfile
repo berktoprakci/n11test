@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'json_spec', '~> 1.1.4'
+gem 'rspec-collection_matchers', '~> 1.1.2'
